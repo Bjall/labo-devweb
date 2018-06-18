@@ -1,0 +1,73 @@
+#inscription{
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	text-align: center;
+}
+
+#connexion{
+	font-size: 3em;
+	margin-bottom: 2em;
+	margin-top: 3em;
+	text-align: center;
+}
+
+#github{
+	margin-left: 1em;
+	margin-top: 0.1em;
+}
+
+#y2s{
+	font-size: 2em;
+	padding-left: 5em;
+}
+
+#accueil{
+	text-align: center;
+}
+
+#citation{
+	font-size: 1.2em;
+	font-style: italic;
+	margin-left: 60em;
+}
+
+#texte{
+	margin-bottom: 4em;
+	text-align: center;
+}
+
+#inscrit{
+	text-align: center;
+}
+
+#list{
+	text-align: center;
+}
+
+#bonjour{
+	font-size: 2em;
+	margin-left: 2em;
+}
+
+#send{
+	margin-left: 92%;
+}
+
+#card_title{
+	font-size: 1em;
+}
+
+#comments{
+	font-size: 1.5em;
+}
+
+#user{
+	font-size:1.5em;
+}
+
+#carte{
+	position: absolute!important;
+	z-index: 99!important;
+	width: 40em;
+}
